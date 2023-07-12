@@ -1,6 +1,6 @@
 {
   "name": "example-deploy-react",
-  "homepage": "https://github.com/MykolaMatsiuk/example-deploy-react",
+  "homepage": "https://MykolaMatsiuk.github.io/example-deploy-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
